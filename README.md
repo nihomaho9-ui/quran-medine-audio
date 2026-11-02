@@ -12,3 +12,8 @@ Files are served via **GitHub Releases** (not git / LFS). Each surah is one zip 
 Surah zip: `https://github.com/nihomaho9-ui/quran-medine-audio/releases/download/maher-128kbps-v1/001.zip`
 
 Single ayah (not hosted here; from EveryAyah): `https://everyayah.com/data/MaherAlMuaiqly128kbps/001001.mp3`
+
+## Single ayah
+Each zip holds `SSSAAA.mp3` files at the root (e.g. `002255.mp3` = 2:255). Client: download `{SSS}.zip`, extract `{SSS}{AAA}.mp3`. For on-demand streaming of one ayah without the zip, fall back to `https://everyayah.com/data/{folder}/{SSS}{AAA}.mp3`. See `index.json` for templates and ayah counts.
+
+License: per EveryAyah / versebyversequran.com terms.
