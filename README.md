@@ -8,6 +8,11 @@ Files are served via **GitHub Releases** (not git / LFS). Each surah is one zip 
 |---|---|---|
 | Maher Al Muaiqly 128kbps | `MaherAlMuaiqly128kbps` | `maher-128kbps-v1` |
 | Mahmoud Khalil Al-Husary 128kbps | `Husary_128kbps` | `husary-128kbps-v1` |
+| Nasser Al Qatami 128kbps | `Nasser_Alqatami_128kbps` | `qatami-128kbps-v1` |
+| Yasser Al Dosari 128kbps | `Yasser_Ad-Dussary_128kbps` | `dosari-128kbps-v1` |
+| Muhammad Ayyub 128kbps | `Muhammad_Ayyoub_128kbps` | `ayyub-128kbps-v1` |
+| Muhammad Jibreel 128kbps | `Muhammad_Jibreel_128kbps` | `jibreel-128kbps-v1` |
+| Saud Ash-Shuraim 128kbps | `Saood_ash-Shuraym_128kbps` | `shuraym-128kbps-v1` |
 
 Surah zip: `https://github.com/nihomaho9-ui/quran-medine-audio/releases/download/maher-128kbps-v1/001.zip`
 

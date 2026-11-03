@@ -15,6 +15,36 @@
    "name": "Mahmoud Khalil Al-Husary",
    "tag": "husary-128kbps-v1",
    "folder": "Husary_128kbps"
+  },
+  {
+   "id": "qatami",
+   "name": "Nasser Al Qatami",
+   "tag": "qatami-128kbps-v1",
+   "folder": "Nasser_Alqatami_128kbps"
+  },
+  {
+   "id": "dosari",
+   "name": "Yasser Al Dosari",
+   "tag": "dosari-128kbps-v1",
+   "folder": "Yasser_Ad-Dussary_128kbps"
+  },
+  {
+   "id": "ayyub",
+   "name": "Muhammad Ayyub",
+   "tag": "ayyub-128kbps-v1",
+   "folder": "Muhammad_Ayyoub_128kbps"
+  },
+  {
+   "id": "jibreel",
+   "name": "Muhammad Jibreel",
+   "tag": "jibreel-128kbps-v1",
+   "folder": "Muhammad_Jibreel_128kbps"
+  },
+  {
+   "id": "shuraim",
+   "name": "Saud Ash-Shuraim",
+   "tag": "shuraym-128kbps-v1",
+   "folder": "Saood_ash-Shuraym_128kbps"
   }
  ],
  "ayahCounts": [
